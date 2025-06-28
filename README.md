@@ -45,9 +45,11 @@ cd FluentChat-Call
 bash
 
 cd backend
+
 npm install
 
-cd ../frontend
+cd frontend
+
 npm install
 
 ### 🚀 Start Frontend and Backend
@@ -56,6 +58,7 @@ npm install
 bash
 
 cd backend
+
 npm run dev
 
 #### ▶️ Start Frontend
@@ -63,6 +66,7 @@ npm run dev
 bash
 
 cd frontend
+
 npm run dev
 
 ## 🔐 Security Note
