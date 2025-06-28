@@ -37,6 +37,7 @@ VITE_CHAT_API_KEY=your_stream_api_key
 bash
 
 git clone https://github.com/sonowalvaibhav/FluentChat-Call.git
+
 cd FluentChat-Call
 
 ### 📦 Install Dependencies for Frontend and Backend
